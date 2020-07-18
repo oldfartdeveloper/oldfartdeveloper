@@ -1,4 +1,6 @@
-### Hi there 👋
+### Scott Smith's new profile (under construction)
+
+![tipsy/profile-summary-for-github](https://github.com/oldfartdeveloper/oldfartdeveloper/blob/master/github-profile-summary-2020-7-18.png)
 
 <!--
 **oldfartdeveloper/oldfartdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
